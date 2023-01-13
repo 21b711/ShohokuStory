@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/6/6_in_1.jpg"  ]
+[preload  storage="./data/bgimage/6/6_in_2.jpg"  ]
+[preload  storage="./data/bgimage/6/6_event.jpg"  ]
+[preload  storage="./data/bgimage/6/6_611_1.jpg"  ]
+[preload  storage="./data/bgimage/6/6_611_2.jpg"  ]
+[return]

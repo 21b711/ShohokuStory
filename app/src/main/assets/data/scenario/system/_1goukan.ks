@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/1/1_in_1.jpg"  ]
+[preload  storage="./data/bgimage/1/1_kaidan_1.jpg"  ]
+[preload  storage="./data/bgimage/1/1_144_1.jpg"  ]
+[preload  storage="./data/bgimage/1/1_144_2.jpg"  ]
+[return]
