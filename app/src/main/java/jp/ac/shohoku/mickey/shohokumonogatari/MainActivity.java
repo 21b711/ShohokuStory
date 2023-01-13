@@ -1,4 +1,4 @@
-package jp.tyrano.tyranoplayerframework;
+package jp.ac.shohoku.mickey.shohokumonogatari;
 
 
 import android.app.Activity;
